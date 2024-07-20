@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior web developer<br>🎓 Computer Science and Systems Engineering student<br><br>On a mission to conquer:<br>🌐 Networks<br>🤖 IoT<br>📱 Android development<br>💻 Senior web development<br>...and whatever I find I can do well.<br><br>Always learning, forever coding, and trying new things.<br><br>And I'm a fan of Deidara's truly art too. 🕸️
+💻 Junior web developer<br>🎓 Computer Science and Systems Engineering student<br><br>On a mission to conquer:<br>🌐 Networks<br>🤖 IoT<br>📱 Android development<br>💻 Senior web development<br>...and whatever I find interesting of useful.<br><br>Always learning, forever coding, and trying new things.<br><br>And I'm a fan of Deidara's truly art too. 🕸️
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@deidara047) 
