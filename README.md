@@ -21,4 +21,4 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypaluser) 
 
   
-Thanks @VishwaGauravIn for the template. You can generate yours in: GPRM (https://gprm.itsvg.in)[https://gprm.itsvg.in]
+Thanks @VishwaGauravIn for the template. You can generate yours in: GPRM [https://gprm.itsvg.in](https://gprm.itsvg.in)
